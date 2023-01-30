@@ -1,0 +1,16 @@
+.container{
+    height: 200px;
+    width: 200px;
+    margin: 100px auto 15px auto;
+    border: 2px solid black;
+}
+.btn{
+    margin: 15px auto;
+    display: flex;
+    cursor: pointer;
+}
+.colorHex{
+    margin: 15px auto;
+    display: block;
+    text-align: center;
+}
